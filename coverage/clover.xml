@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1576267172590" clover="3.2.0">
+  <project timestamp="1576267172590" name="All files">
+    <metrics statements="28" coveredstatements="26" conditionals="8" coveredconditionals="3" methods="7" coveredmethods="5" elements="43" coveredelements="34" complexity="0" loc="28" ncloc="28" packages="3" files="8" classes="8"/>
+    <package name="assets">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="crayon.jpeg" path="C:\Users\audbr\Documents\School\seperate430\CareMap\assets\crayon.jpeg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="ele.jpg" path="C:\Users\audbr\Documents\School\seperate430\CareMap\assets\ele.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="kids-drawing.jpeg" path="C:\Users\audbr\Documents\School\seperate430\CareMap\assets\kids-drawing.jpeg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="kids-eating.jpeg" path="C:\Users\audbr\Documents\School\seperate430\CareMap\assets\kids-eating.jpeg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="reading-book.jpeg" path="C:\Users\audbr\Documents\School\seperate430\CareMap\assets\reading-book.jpeg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ChildcareImageDetail.js" path="C:\Users\audbr\Documents\School\seperate430\CareMap\src\components\ChildcareImageDetail.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.screens">
+      <metrics statements="19" coveredstatements="17" conditionals="8" coveredconditionals="3" methods="6" coveredmethods="4"/>
+      <file name="ComponentsScreen.js" path="C:\Users\audbr\Documents\School\seperate430\CareMap\src\screens\ComponentsScreen.js">
+        <metrics statements="16" coveredstatements="14" conditionals="8" coveredconditionals="3" methods="5" coveredmethods="3"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+      </file>
+      <file name="ImageScreen.js" path="C:\Users\audbr\Documents\School\seperate430\CareMap\src\screens\ImageScreen.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

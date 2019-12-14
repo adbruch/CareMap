@@ -4,7 +4,7 @@ import SearchBar from '../components/SearchBar'
 import useResults from '../hooks/useResults';
 import ResultsList from '../components/ResultsList';
 import {YellowBox} from 'react-native';
-import { Feather, FontAwesome } from '@expo/vector-icons';
+import { FontAwesome } from '@expo/vector-icons';
 import { TouchableOpacity, ScrollView } from 'react-native-gesture-handler';
 
 const SearchScreen = ({ }) => {
@@ -35,7 +35,7 @@ const SearchScreen = ({ }) => {
             </ScrollView>
         </View>
     );
-}
+};
 
 SearchScreen.navigationOptions = ({navigation}) => {
     return {
@@ -60,14 +60,14 @@ const styles = StyleSheet.create({
 }); 
 
 // Jozzell Geo Location Function :: =>
-var options = {
+let options = {
     enableHighAccuracy: true,
     timeout: 5000,
     maximumAge: 0
     };
     
     function success(pos){
-      var crd = pos.coords;
+      let crd = pos.coords;
     
       console.log('Your current positon is:');
       console.log(`Latitude : ${crd.latitude}`);
